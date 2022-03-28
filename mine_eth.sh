@@ -1,0 +1,1 @@
+bminer -uri ethstratum://bizvip9x.test01@ethash.poolbinance.com:1800
